@@ -1,0 +1,31 @@
+p, h1{
+    color: white;
+}
+body{
+    overflow: hidden ;
+}
+.all, .male, .female{
+    color:  white;
+}
+
+.allCount{
+    position: relative;
+    top: -18px;
+    left: 95px;
+}
+
+.allMale{
+    position: relative;
+    top: -18px;
+    left: 65px;
+}
+
+.allFemale{
+    position: relative;
+    top: -18px;
+    left: 65px;
+}
+
+sub{
+    color: #767676;
+}
